@@ -4,7 +4,7 @@
   "description": "Algorithm for finding neighbour",
   "main": "index.js",
   "scripts": {
-    "test": "jest --config config.test.js --watch"
+    "test": "jest --config config.test.js"
   },
   "author": "",
   "license": "ISC",
